@@ -1,6 +1,5 @@
-<img src="https://c.tenor.com/-SV9TjUGabMAAAAC/hacker-python.gif" alt="python" width="100%" height="400"/>
 <h1 align="center">Hi 👋, I'm Renzo Tavares</h1>
-<h3 align="center">A passionate RPA Python Developer</h3>
+<h3 align="center">A passionate QA/Python Developer</h3>
 
 <img align="right" alt="Coding" width="300" height="180"  src="https://media4.giphy.com/media/zOvBKUUEERdNm/giphy.gif?cid=790b76114ec8a752ff2b8459d4e7b4994c7eeb372616807a&rid=giphy.gif&ct=g">
 
@@ -8,17 +7,17 @@
 
 - 🔭 I’m currently working on **webdriver projects**
 
-- 🌱 I’m currently learning **SQL**
+- 🌱 I’m currently learning **API automation testing**
 
 - 👯 I’m looking to collaborate on **python automations**
 
-- 💬 Ask me about **IT infrastructure**
+- 💬 Ask me about **Automation with Python**
 
 - 📫 How to reach me **tavaresrenzo@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/renzotavares/](https://www.linkedin.com/in/renzotavares/)
 
-- ⚡ Fun fact **I like to play all type of games**
+- ⚡ Fun fact **Orange belt in kickboxing.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
