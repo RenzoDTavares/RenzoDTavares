@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Renzo Tavares</h1>
+<h1 align="center">Hi 👋, I'm Dtrenzo</h1>
 <h3 align="center">A passionate QA/Python Developer</h3>
 
 <img align="right" alt="Coding" width="300" height="180"  src="https://media4.giphy.com/media/zOvBKUUEERdNm/giphy.gif?cid=790b76114ec8a752ff2b8459d4e7b4994c7eeb372616807a&rid=giphy.gif&ct=g">
